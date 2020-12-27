@@ -4,3 +4,6 @@ Content of the app:
 
 - React.lazy
 - Suspense
+- useDispatch()
+- useSelector()
+- useCallback()
